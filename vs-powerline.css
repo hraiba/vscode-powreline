@@ -1,5 +1,6 @@
 
 /* Themes */
+/* tokyo */
 body {
     --powerline-mode-fg: #1a1b26;
     --powerline-normal-bg: #bb9af7;
@@ -15,6 +16,24 @@ body {
     --powerline-vim-command-line: #7dcfff;
     --powerline-mode-weight: bold;
 }
+
+/* monokai pro */
+/* body { */
+/*     --powerline-mode-fg: #1a1b26; */
+/*     --powerline-normal-bg: #bb9af7; */
+/*     --powerline-insert-bg: #9ece6a; */
+/*     --powerline-replace-bg: #f7768e; */
+/*     --powerline-visual-bg: #7aa2f7; */
+/*     --powerline-inner-fg: #c0caf5; */
+/*     --powerline-inner-bg: #2f3549; */
+/*     --powerline-inner-bg-hl:#1a1b26; */
+/*     --powerline-second-segment-fg: #c0caf5; */
+/*     --powerline-second-segment-bg: #2c3043; */
+/*     --powerline-separator: #bb9af7; */
+/*     --powerline-vim-command-line: #7dcfff; */
+/*     --powerline-mode-weight: bold; */
+/* } */
+
 .statusbar-item {
     font-family: 'Monaspace Krypton Frozen,', 'Fira Code', 'JetBrains Mono', 'MesloLGS NF', monospace !important;
     font-size: 14px !important;
